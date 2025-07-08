@@ -1,0 +1,6 @@
+PatientID,Name,Age,Gender,DateOfBirth,BloodPressure,HeartRate,DiagnosisCode
+101,John Doe,35,M,1989-02-12,120/80,72,A01.1
+102,Jane Smith,,F,1987-07-23,140/90,85,B20
+103,Ravi Kumar,145,M,1978-01-15,220/110,105,C34.1
+104,Asha Rani,28,F,1995-06-30,110/70,xyz,B00
+105,Imran Ali,42,X,1982-09-01,130/85,65,A01.1
